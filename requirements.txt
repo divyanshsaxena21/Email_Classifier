@@ -7,3 +7,5 @@ imblearn
 pandas
 datasets
 flask-cors
+gunicorn
+numpy
